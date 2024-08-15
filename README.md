@@ -4,3 +4,6 @@ Aplicação simples em padrão MVC de um sistema de agendamento utilizando Java 
 O sistema consiste em um sistema basico de agendamento, no projeto idealizamos uma aplicação para um cabeleireiro pequeno.
 
 Existem 4 entidades no sistema presentes no banco de dados Cliente, Funcionario, Serviço e Reserva, todos possuem um CRUD basico e a Reserva esta ligada diretamente com a existencia de Cliente, Funcionario, Serviço.
+
+
+TESTe
